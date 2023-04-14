@@ -8,3 +8,7 @@ print(f"Certo! Nomeie as {cruzamento} aproximações de A até {letra}")
 
 tipo_entrada = input("A aproximação do cruzamento é semaforizada ou não semaforizada?")
 tipo_entrada.lower()
+
+#fatores
+
+#correções
